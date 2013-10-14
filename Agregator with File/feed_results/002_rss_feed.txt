@@ -1,0 +1,29 @@
+Feed Provider Number2
+Provider:Football
+Number of RSS1
+Feed 1
+Title http://go-football.org/infa_board/1314-luchshego-vyberut-ochen-skoro.html
+url Лучшего выберут очень скоро!
+description 
+<p>Претенденты на получение Золотого Мяча 2013<span style="color: #3366ff;">...далее видео...</span><img style="float: left;" src="http://go-football.org/image/fifa_uefa/france_football_gold_bool.gif" alt="" width="100" height="140" /></p>
+Feed 2
+Title http://go-football.org/fifa_news/1313-dosvistelis.html
+url Досвистелись!!!
+description 
+<p><img style="float: left;" src="http://go-football.org/uploads/posts/2013-10/1380985934_costa_rica.png" alt="" />ФИФА наказала Костариканскую Федерацию Футбола на 13 тысяч долларов за плохое поведение болельщиков на<span style="color: #3366ff;">...далее видео...</span></p>
+<p>&nbsp;</p>
+Feed 3
+Title http://go-football.org/liga_champ/1312-liga-chempionov-2-y-tur.html
+url Лига Чемпионов 2-й тур
+description 
+<p><img style="float: left;" src="http://go-football.org/uploads/1280467646_logo_liga_champions.gif" alt="" width="100" height="89" />Во вторник и среду состоялись матчи второго раунда футбольной Лиги Чемпионов 2013/2014 сезона. Болельщиков&nbsp;ожидал целый ряд интересных матчей. И так, начнём наш обзор<span style="color: #3366ff;">...далее видео...</span></p>
+Feed 4
+Title http://go-football.org/infa_board/1311-deko-zavershil-futbolnuyu-kareru.html
+url Деко завершил футбольную карьеру
+description 
+<p><img style="float: left;" src="http://go-football.org/uploads/posts/2013-10/1380646498_deco.jpg" alt="" />Бразильский полузащитник - Деко завершил футбольную карьеру в 35-ти летнем возрасте. Последним пристанищем игрока стал бразильский - Флуминенсе, прощальный матч<span style="color: #3366ff;">...далее видео...</span></p>
+Feed 5
+Title http://go-football.org/plyag_football/1310-rossiya-zaschitila-titul.html
+url Россия защитила титул
+description 
+<p><img style="float: left;" src="http://go-football.org/uploads/posts/2013-09/1380445742_taiti_beach.png" alt="" />Сегодня в Таити завершился Чемпионат Мира по пляжному футболу. Титул сильнейшей команды удалось защитить&nbsp;российской сборной. В финале была повержена<span style="color: #3366ff;">...далее видео...</span><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>

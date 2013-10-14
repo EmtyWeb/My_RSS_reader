@@ -1,0 +1,36 @@
+Feed Provider Number1
+Provider:World of Tanks
+Number of RSS1
+Feed 1
+Title http://www.worldoftanks.ru/ru/news/1/igromir_4_day/
+url «ИгроМир 2013». Последний рубеж
+description 
+Завершилась крупнейшая российская выставка для любителей интерактивных развлечений «ИгроМир 2013». О событиях последнего дня читайте в нашем репортаже.  
+
+ <br/><a href="http://forum.worldoftanks.ru/index.php?/topic/1031748-">Обсуждение: http://forum.worldoftanks.ru/index.php?/topic/1031748- </a>
+Feed 2
+Title http://www.worldoftanks.ru/ru/news/1/igromir_2013/
+url Wargaming на выставке «ИгроМир 2013»
+description 
+С 3 по 6 октября компания Wargaming представляет свои проекты на крупнейшей российской выставке для любителей интерактивных развлечений. Посетители выставки смогут продемонстрировать свои боевые навыки в World of Warplanes и World of Tanks, попробовать силы в консольных сражениях World of Tanks: Xbox 360 Edition, принять участие во множестве конкурсов, а также задать вопросы разработчикам.  
+
+ <br/><a href="http://forum.worldoftanks.ru/index.php?/topic/1007930-">Обсуждение: http://forum.worldoftanks.ru/index.php?/topic/1007930- </a>
+Feed 3
+Title http://www.worldoftanks.ru/ru/news/2/update_techworks_07_10/
+url Временная недоступность сервиса обновлений
+description 
+7 октября с 14:00 до 15:00 (МСК) сервис обновлений World of Tanks будет недоступен.
+Feed 4
+Title http://www.worldoftanks.ru/ru/news/tournaments/wgl_final_2013_live/
+url Финал второго сезона: прямая трансляция
+description 
+Финал второго сезона Wargaming.net League проходит в Москве с 3 по 6 октября в рамках выставки «Игромир 2013». Смотрите прямые трансляции!  
+
+ <br/><a href="http://forum.worldoftanks.ru/index.php?/topic/1028789-">Обсуждение: http://forum.worldoftanks.ru/index.php?/topic/1028789- </a>
+Feed 5
+Title http://www.worldoftanks.ru/ru/news/1/igromir_3_day/
+url Все на «ИгроМир»! День третий
+description 
+О событиях третьего, предпоследнего дня «ИгроМира 2013» ― выставки для любителей интерактивных развлечений, проходящей в Москве, ― читайте в специальном репортаже.  
+
+ <br/><a href="http://forum.worldoftanks.ru/index.php?/topic/1030674-">Обсуждение: http://forum.worldoftanks.ru/index.php?/topic/1030674- </a>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListOfRssProvider>
+
+	<InfoProvaider>
+            <ProviderName>World of Tanks</ProviderName>
+     	    <ProviderUrl>http://api.wot-blackdeath.ru/wot-news/ru/wot-news.xml</ProviderUrl>
+    	    <maximumRss>5</maximumRss>
+ 	</InfoProvaider>
+
+	<InfoProvaider>
+            <ProviderName>Football</ProviderName>
+     	    <ProviderUrl>http://go-football.org/rss.xml</ProviderUrl>
+    	    <maximumRss>10</maximumRss>
+ 	</InfoProvaider>
+</ListOfRssProvider>
+
